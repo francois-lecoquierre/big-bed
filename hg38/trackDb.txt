@@ -1,0 +1,8 @@
+track demoVariants
+shortLabel Variants demo
+longLabel Variants fictifs - infobulle au survol (mouseOver)
+type bigBed 9 + 6
+bigDataUrl variants.bb
+itemRgb on
+visibility pack
+mouseOver $gene $hgvsc $hgvsp | ACMG: $acmg | gnomAD AF: $gnomadAF | $zygosity

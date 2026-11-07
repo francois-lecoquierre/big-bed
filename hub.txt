@@ -1,0 +1,5 @@
+hub demoMouseOver
+shortLabel Demo mouseOver
+longLabel Demo bigBed avec infobulle au survol
+genomesFile genomes.txt
+email francois.lecoquierre@gmail.com
