@@ -5,4 +5,4 @@ type bigBed 9 + 6
 bigDataUrl variants.bb
 itemRgb on
 visibility pack
-mouseOver $gene $hgvsc $hgvsp | ACMG: $acmg | gnomAD AF: $gnomadAF | $zygosity
+mouseOver <b>🧬 $gene</b><br>$hgvsc ($hgvsp)<br><b>ACMG:</b> $acmg &nbsp;|&nbsp; <b>gnomAD AF:</b> $gnomadAF<br><b>Zygotie/VAF:</b> $zygosity
